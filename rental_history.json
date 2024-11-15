@@ -1,0 +1,32 @@
+{
+    "rental_history": [
+        {
+            "due_date": "22/10/2024",
+            "id": 1214,
+            "name": "O Poderoso Chefao",
+            "rental_date": "",
+            "renter": "Kons"
+        },
+        {
+            "due_date": "24/10/2024",
+            "id": 5678,
+            "name": "Coracao Valente",
+            "rental_date": "",
+            "renter": "Pedro"
+        },
+        {
+            "due_date": "14/08/2024",
+            "id": 7836,
+            "name": "Um Sonho De Liberdade",
+            "rental_date": "",
+            "renter": "Bruno"
+        },
+        {
+            "due_date": "24/10/2024",
+            "id": 4545,
+            "name": "Prison Break",
+            "rental_date": "",
+            "renter": "Professor"
+        }
+    ]
+}

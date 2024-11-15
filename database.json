@@ -1,0 +1,76 @@
+{
+    "movies": [
+        {
+            "actors": "Andrew Russell Garfield, Luke Bracey",
+            "categories": "acao",
+            "director": "Mel Gibson",
+            "id": 1234,
+            "name": "Ultimo Homem",
+            "rental": {
+                "due_date": "",
+                "is_rented": false,
+                "renter": ""
+            }
+        },
+        {
+            "actors": "Mel Gibson, Sophie Marceau",
+            "categories": "drama",
+            "director": "Mel Gibson",
+            "id": 5678,
+            "name": "Coracao Valente",
+            "rental": {
+                "due_date": "24/10/2024",
+                "is_rented": true,
+                "renter": "Pedro"
+            }
+        },
+        {
+            "actors": "Marlon Brando, Al Pacino",
+            "categories": "drama",
+            "director": "Francis Ford Coppola",
+            "id": 1214,
+            "name": "O Poderoso Chefao",
+            "rental": {
+                "due_date": "",
+                "is_rented": false,
+                "renter": ""
+            }
+        },
+        {
+            "actors": "Keanu Reeves, Laurence Fishburne",
+            "categories": "Ficcao",
+            "director": "Lana Wachowski, Lilly Wachowski",
+            "id": 2034,
+            "name": "Matrix",
+            "rental": {
+                "due_date": "",
+                "is_rented": false,
+                "renter": ""
+            }
+        },
+        {
+            "actors": "Steve Harpher",
+            "categories": "suspense",
+            "director": "Ellie MidWood",
+            "id": 4545,
+            "name": "Prison Break",
+            "rental": {
+                "due_date": "24/10/2024",
+                "is_rented": true,
+                "renter": "Professor"
+            }
+        },
+        {
+            "actors": "Morgan Freeman",
+            "categories": "drama",
+            "director": "Frank Darabont",
+            "id": 7836,
+            "name": "Um Sonho De Liberdade",
+            "rental": {
+                "due_date": "14/08/2024",
+                "is_rented": true,
+                "renter": "Bruno"
+            }
+        }
+    ]
+}
